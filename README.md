@@ -1,2 +1,2 @@
-# Lyngua-public
+# Lyngua
 Public info for Lyngua
