@@ -1,12 +1,4 @@
-
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/ilangofman/Language-Learning-App/blob/master/screenshots/logo.PNG">
-    <img src="screenshots/logo.PNG" alt="Logo">
-  </a>
-</p>
+# Lyngua
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
